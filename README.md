@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Nidhee!
 Junior Developer at Innovya Technology  
 
-🌏 Gurugram, India 🇮🇳
+🌏 Bangalore, India 🇮🇳
 
 Glad to see you here!   
 
