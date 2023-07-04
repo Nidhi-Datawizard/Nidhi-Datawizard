@@ -15,12 +15,8 @@ Technical Skills:
 • Salesforce visualization and customizations of fields, workflows, and validation rules.
 • AWS configuration and Customization.
 
-P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... Please feel free to reach out for more information.
+P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... Connect with me.
 
-Connect with me 📫: nidhipriyasingh@outlook.com  
-LinkedIn: https://www.linkedin.com/in/nidhipriyasingh007/         
-Programming Profiles: kaggle.com/nidhipriyasingh	
-YouTube: https://www.youtube.com/@DataWizard-Nidhee  /
 
    <p align="left">
       <a href="https://www.youtube.com/@DataWizard-Nidhee?sub_confirmation=1">
@@ -31,16 +27,16 @@ YouTube: https://www.youtube.com/@DataWizard-Nidhee  /
           <img src="https://custom-icon-badges.demolab.com/badge/-Kaggle-4faed9?style=for-the-badge&logo=mention" /></a>
       <a href="https://github.com/Nidhi-Datawizard?tab=stars">
           <img src="https://custom-icon-badges.demolab.com/badge/-STARS-D90368?style=for-the-badge&logo=mention" /></a>
+       <a href="https://github.com/Nidhi-Datawizard?tab=repositories">
+          <img src="https://custom-icon-badges.demolab.com/badge/-REPO-ff5c8f?style=for-the-badge&logo=mention" /></a>
        <a href="https://github.com/Nidhi-Datawizard?tab=stars">
-          <img src="https://custom-icon-badges.demolab.com/badge/-REPO-D90368?style=for-the-badge&logo=mention" /></a>
-       <a href="https://github.com/Nidhi-Datawizard?tab=stars">
-          <img src="https://custom-icon-badges.demolab.com/badge/-PROJECTS-D90368?style=for-the-badge&logo=mention" /></a>
+          <img src="https://custom-icon-badges.demolab.com/badge/-PROJECTS-ff9bbb?style=for-the-badge&logo=mention" /></a>
       <a href="https://leetcode.com/nidhipriyasingh29">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Kaggle-4faed9?style=for-the-badge&logo=mention" /></a>
-      <a href="https://kaggle.com/nidhipriyasingh">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Kaggle-4faed9?style=for-the-badge&logo=mention" /></a>
-      <a href="https://kaggle.com/nidhipriyasingh">
-          <img src="https://custom-icon-badges.demolab.com/badge/-Kaggle-4faed9?style=for-the-badge&logo=mention" /></a>
+          <img src="https://custom-icon-badges.demolab.com/badge/-LEETCODE-fd7e14?style=for-the-badge&logo=mention" /></a>
+      <a href="https://www.hackerrank.com/nidhipriyasingh1?hr_r=1">
+          <img src="https://custom-icon-badges.demolab.com/badge/-HACKERRANK-43c904?style=for-the-badge&logo=mention" /></a>
+      <a href="https://discord.com/channels/172018499005317120/443166941809737728">
+          <img src="https://custom-icon-badges.demolab.com/badge/-DISCHORD-4f40cf?style=for-the-badge&logo=mention" /></a>
       
    </p>
 
