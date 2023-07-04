@@ -61,9 +61,9 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi-Datawizard&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://github.com/Nidhi-Datawizard?tab=overview&from=2023-05-01&to=2023-05-31) -->
 
 #
 
