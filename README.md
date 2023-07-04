@@ -68,8 +68,31 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 My Journey</h3></summary>
+   As an ETL Developer, I have completed various projects with the following tasks:
+• Translated business requirements into ETL design specifications.
+• Implemented Configuration for setup and deployment at different environments like Dev, Stage, Test, and Production.
+• Monitored Daily SQL Server jobs on the production server as part of production support and troubleshooting failed jobs.
+• Optimized SQL query performance for maximum efficiency.
+• Performed performance tuning of SQL objects like Stored Procedures, and functions to make data insertion and retrieval faster.
+• Designed and created SQL Databases, tables, indexes, views, User-Defined Functions, Stored Procedures, and Triggers to support business applications.
+• Planned and prepared for automating daily build activities.
+• Provided KT and training to new resources for project work.
+• Prepared daily, weekly and monthly reports of incidents and enhancements.
+• Created detailed design and requirement documents logically to help team members understand the requirements and design.
+• Configured and managed user accounts and assigned roles and permissions based on user requirements.
+• Monitored Amazon Connect instance's performance and associated resources, including phone numbers and queues.
+• Monitored and analyzed AWS Connect metrics, resolved issues, and ensured optimal contact center performance.
+• Created and configured contact flows and routing profiles, integrated with other AWS services and third-party systems.
+• AWS AppStream.
+• Customized Salesforce technology to meet the organization's requirements and goals.
+• Set up and managed user accounts and profiles on Salesforce for other people in the organization.
+• Created and maintained reports and visualization dashboards in Salesforce to provide insights.
+• Maintained Salesforce customizations, such as custom fields, workflows, and validation rules. 
+• Tableau reports and visualization dashboards.
+• Ensuring client delivery and managing escalations.
+   
+Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket · Webstorm · Salesforce · Jira · Tableau · Microsoft Power BI · Business Analytics · Data Analytics · Amazon Web Services (AWS) · PostgreSQL · SQL · Python (Programming Language) · Resource Planning · Agile Methodologies · Software Project Management · Project Management · Google Analytics · Microsoft Office · Microsoft Excel
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: 
+[youtube]: https://www.youtube.com/@DataWizard-Nidhee
