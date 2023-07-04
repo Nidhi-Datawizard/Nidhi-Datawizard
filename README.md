@@ -25,7 +25,7 @@ YouTube: https://www.youtube.com/@DataWizard-Nidhee
    <p align="left">
       <a href="https://www.youtube.com/@DataWizard-Nidhee?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=YouTube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=YouTube"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
