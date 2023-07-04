@@ -20,7 +20,7 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 Connect with me 📫: nidhipriyasingh@outlook.com  
 LinkedIn: https://www.linkedin.com/in/nidhipriyasingh007/         
 Programming Profiles: kaggle.com/nidhipriyasingh	
-YouTube: https://www.youtube.com/@DataWizard-Nidhee
+YouTube: https://www.youtube.com/@DataWizard-Nidhee  /
 
    <p align="left">
       <a href="https://www.youtube.com/@DataWizard-Nidhee?sub_confirmation=1">
@@ -29,8 +29,19 @@ YouTube: https://www.youtube.com/@DataWizard-Nidhee
          <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIN-0368d9?style=for-the-badge&logo=mention" /></a> 
       <a href="https://kaggle.com/nidhipriyasingh">
           <img src="https://custom-icon-badges.demolab.com/badge/-Kaggle-4faed9?style=for-the-badge&logo=mention" /></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-          <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIN-D90368?style=for-the-badge&logo=mention" /></a>
+      <a href="https://github.com/Nidhi-Datawizard?tab=stars">
+          <img src="https://custom-icon-badges.demolab.com/badge/-STARS-D90368?style=for-the-badge&logo=mention" /></a>
+       <a href="https://github.com/Nidhi-Datawizard?tab=stars">
+          <img src="https://custom-icon-badges.demolab.com/badge/-REPO-D90368?style=for-the-badge&logo=mention" /></a>
+       <a href="https://github.com/Nidhi-Datawizard?tab=stars">
+          <img src="https://custom-icon-badges.demolab.com/badge/-PROJECTS-D90368?style=for-the-badge&logo=mention" /></a>
+      <a href="https://leetcode.com/nidhipriyasingh29">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Kaggle-4faed9?style=for-the-badge&logo=mention" /></a>
+      <a href="https://kaggle.com/nidhipriyasingh">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Kaggle-4faed9?style=for-the-badge&logo=mention" /></a>
+      <a href="https://kaggle.com/nidhipriyasingh">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Kaggle-4faed9?style=for-the-badge&logo=mention" /></a>
+      
    </p>
 
 
