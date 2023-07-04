@@ -11,7 +11,7 @@ IBM Badge
 🧑‍🎓    Completed my Master's in 2022 with a major in Biotechnology.
 📝 Checkout my Resume
 
-Connect with me 📫: nidhipriyasingh@outlook.com
+Connect with me 📫: nidhipriyasingh@outlook.com  
 LinkedIn           : https://www.linkedin.com/in/nidhipriyasingh007/         
 Programming Profiles - kaggle.com/nidhipriyasingh	
 
