@@ -27,7 +27,7 @@ YouTube: https://www.youtube.com/@DataWizard-Nidhee
          <img title="Subscribe to my YouTube channel" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=YouTube&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.linkedin.com/in/nidhipriyasingh007">
-         <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIN-D90368?style=for-the-badge&logo=mention" alt="LinkedIN" /></a> 
+         <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIN-D90368?style=for-the-badge&logo=mention" /></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
