@@ -27,7 +27,7 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 
 [🔗 Explore my Projects](https://github.com/Nidhi-Datawizard?tab=repositories)  
 
-- 📫 Email me at: **nidhipriyasingh@outlook.com**
+📫 Email me at: **nidhipriyasingh@outlook.com**
 
 <h3 align="left">
   ## 🌱 Portfolio & Learning
