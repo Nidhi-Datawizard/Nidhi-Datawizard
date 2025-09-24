@@ -125,11 +125,12 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 - Maintained Salesforce customizations, such as custom fields, workflows, and validation rules. 
 - Tableau reports and visualization dashboards.
 - Ensuring client delivery and managing escalations.
+<details>
    
 Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket · Webstorm · Salesforce · Jira · Tableau · Microsoft Power BI · Business Analytics · Data Analytics · Amazon Web Services (AWS) · PostgreSQL · SQL · Python (Programming Language) · Resource Planning · Agile Methodologies · Software Project Management · Project Management · Google Analytics · Microsoft Office · Microsoft Excel
 
 <details>
- <summary><h3>👩‍💻 My Journey</h3></summary>
+ <summary><h3>Summary</h3></summary>
    
 - Built & optimized **ETL pipelines** → faster data movement 🚀  
 - Designed & deployed **SQL Databases** → optimized queries & performance tuning  
