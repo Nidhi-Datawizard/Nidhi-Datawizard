@@ -41,11 +41,6 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 **🤖 AI isn’t just tech, it’s my art form 🚀**
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankajhatheanalyst&show_icons=true&locale=en&layout=compact" alt="priyankajhatheanalyst" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankajhatheanalyst&show_icons=true&locale=en" alt="priyankajhatheanalyst" /></p>
-
    <p align="left">
       <a href="https://www.youtube.com/@DataWizard-Nidhee?sub_confirmation=1">
          <img src="https://custom-icon-badges.demolab.com/badge/-YouTube-d90903?style=for-the-badge&logo=mention"/></a> 
