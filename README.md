@@ -19,12 +19,12 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 - 📫 Email me at: **nidhipriyasingh@outlook.com**
 
 
-<p>
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  Connect with me:
   <a href="https://www.linkedin.com/in/nidhipriyasingh007/" target="_blank">
-    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nidhi Priya Singh LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nidhi Priya Singh LinkedIn" height="30" width="40" />
   </a>
-</p>
+</h3>
 
 
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](LINK)
