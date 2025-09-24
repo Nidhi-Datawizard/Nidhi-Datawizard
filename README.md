@@ -27,11 +27,6 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 </p>
 
 
-<a href="[[https://linkedin.com/in/priyankajhatheanalyst](https://www.linkedin.com/in/nidhipriyasingh007/)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
-
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](LINK)
 - 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
 - 🌱 My **Data Analyst Portfolio Projects** are in: [Data Analyst Projects Repo.](Git Rep Link)
