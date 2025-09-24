@@ -16,22 +16,26 @@ Technical Skills:
 • AWS configuration and Customization.
 
 P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... Connect with me.
-<img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="840" height="200" allow="autoplay">
-<h1 align="center">Hi 👋, I'm Priyanka Jha.</h1>
-<h3 align="center">A Data Detective with a penchant for crunching numbers and believes in Data for Good.</h3>
+
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](https://github.com/PriyankaJhaTheAnalyst/PythonLibrariesTutorials)
+- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](LINK)
 
-- 📝 Take a look at my **Personal** Website: [www.priyanka-jha.com](https://www.priyanka-jha.com/)
+- 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
 
-- 🌱 My **Portfolio Projects** are in: [Data Analyst Projects Repo.](https://github.com/PriyankaJhaTheAnalyst/Portfolio-Projects)
+- 🌱 My **Data Analyst Portfolio Projects** are in: [Data Analyst Projects Repo.](Git Rep Link)
 
-- 👨‍💻 My **Tableau** Projects are at: [Priyanka Jha - Tableau Public](https://public.tableau.com/app/profile/priyankajhatheanalyst)
+- 👨‍💻 My **Tableau** Projects are at: [Tableau Public](tableau.com)
 
-- 📫 Email me at: **priyanka.jha.social@gmail.com**
+- 📫 Email me at: **nidhipriyasingh@outlook.com**
 
-- ⚡ Fun Fact: **The most life-changing book for me is Bhagwad Gita.**
+- ✨ A little about me:
+**🌵 Obsessed with cactus (If cactus had a fan club, I’d be president)
+  🛼 I roll through life on skates (but swimming? I tried once… sank like a rock 😂 😅) 
+  🌙 Obsessed with the moon, moonlight & Starry Nights (Van Gogh = ❤️) 
+  🤖 AI isn’t just tech, it’s my art form 🚀**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
