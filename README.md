@@ -1,6 +1,6 @@
 # 🏄‍♂️ Hi there 👋 I am Nidhee!
 
-**`Aspiring Analyst (Analyst/Developer/Creator)`**
+**`Project Manager and Analyst (Analyst/Developer/Creator)`**
 
 As a Data enthusiast, I am passionate about exploring data and uncovering valuable insights that drive business decisions. Innovya has provided me with the necessary skills and knowledge to handle large, complex raw data sets to develop data-driven actionable insights to impact business decisions. I have gained practical experience in manipulating and analyzing data using Python and PostgreSQL, including data cleaning, transformation, analysis, and visualization tasks. 
 
@@ -18,6 +18,14 @@ Technical Skills:
 P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... 
 - 📫 Email me at: **nidhipriyasingh@outlook.com**
 <h3 align="left">Connect with me:</h3>
+
+<p>
+  Connect with me 
+  <a href="https://www.linkedin.com/in/nidhipriyasingh007/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nidhi Priya Singh LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
 
 <a href="[[https://linkedin.com/in/priyankajhatheanalyst](https://www.linkedin.com/in/nidhipriyasingh007/)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
 
