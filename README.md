@@ -43,8 +43,6 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 - 🐍 [Python Projects](python.com)  
 - 🧮 [SQL Projects](sql.com) 
 
-- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries](LINK)
-- 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
 
 
 <h3 align="left">
@@ -105,30 +103,49 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 
 <details>
  <summary><h3>👨‍💻 My Journey</h3></summary>
-   As an ETL Developer, I have completed various projects with the following tasks:
-• Translated business requirements into ETL design specifications.
-• Implemented Configuration for setup and deployment at different environments like Dev, Stage, Test, and Production.
-• Monitored Daily SQL Server jobs on the production server as part of production support and troubleshooting failed jobs.
-• Optimized SQL query performance for maximum efficiency.
-• Performed performance tuning of SQL objects like Stored Procedures, and functions to make data insertion and retrieval faster.
-• Designed and created SQL Databases, tables, indexes, views, User-Defined Functions, Stored Procedures, and Triggers to support business applications.
-• Planned and prepared for automating daily build activities.
-• Provided KT and training to new resources for project work.
-• Prepared daily, weekly and monthly reports of incidents and enhancements.
-• Created detailed design and requirement documents logically to help team members understand the requirements and design.
-• Configured and managed user accounts and assigned roles and permissions based on user requirements.
-• Monitored Amazon Connect instance's performance and associated resources, including phone numbers and queues.
-• Monitored and analyzed AWS Connect metrics, resolved issues, and ensured optimal contact center performance.
-• Created and configured contact flows and routing profiles, integrated with other AWS services and third-party systems.
-• AWS AppStream.
-• Customized Salesforce technology to meet the organization's requirements and goals.
-• Set up and managed user accounts and profiles on Salesforce for other people in the organization.
-• Created and maintained reports and visualization dashboards in Salesforce to provide insights.
-• Maintained Salesforce customizations, such as custom fields, workflows, and validation rules. 
-• Tableau reports and visualization dashboards.
-• Ensuring client delivery and managing escalations.
+- As an ETL Developer, I have completed various projects with the following tasks:
+- Translated business requirements into ETL design specifications.
+- Implemented Configuration for setup and deployment at different environments like Dev, Stage, Test, and Production.
+- Monitored Daily SQL Server jobs on the production server as part of production support and troubleshooting failed jobs.
+- Optimized SQL query performance for maximum efficiency.
+- Performed performance tuning of SQL objects like Stored Procedures and functions to make data insertion and retrieval faster.
+- Designed and created SQL Databases, tables, indexes, views, User-Defined Functions, Stored Procedures, and Triggers to support business applications.
+- Planned and prepared for automating daily build activities.
+- Provided KT and training to new resources for project work.
+- Prepared daily, weekly, and monthly reports of incidents and enhancements.
+- Created detailed design and requirement documents logically to help team members understand the requirements and design.
+- Configured and managed user accounts and assigned roles and permissions based on user requirements.
+- Monitored Amazon Connect instance's performance and associated resources, including phone numbers and queues.
+- Monitored and analyzed AWS Connect metrics, resolved issues, and ensured optimal contact center performance.
+- Created and configured contact flows and routing profiles, integrated with other AWS services and third-party systems.
+- AWS AppStream.
+- Customized Salesforce technology to meet the organization's requirements and goals.
+- Set up and managed user accounts and profiles on Salesforce for other people in the organization.
+- Created and maintained reports and visualization dashboards in Salesforce to provide insights.
+- Maintained Salesforce customizations, such as custom fields, workflows, and validation rules. 
+- Tableau reports and visualization dashboards.
+- Ensuring client delivery and managing escalations.
    
 Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket · Webstorm · Salesforce · Jira · Tableau · Microsoft Power BI · Business Analytics · Data Analytics · Amazon Web Services (AWS) · PostgreSQL · SQL · Python (Programming Language) · Resource Planning · Agile Methodologies · Software Project Management · Project Management · Google Analytics · Microsoft Office · Microsoft Excel
+
+<details>
+ <summary><h3>👩‍💻 My Journey</h3></summary>
+   
+- Built & optimized **ETL pipelines** → faster data movement 🚀  
+- Designed & deployed **SQL Databases** → optimized queries & performance tuning  
+- Configured **AWS Connect & AppStream** → ensuring uptime + customer success  
+- Customized **Salesforce** → tailored workflows, dashboards, & reports  
+- Delivered **Power BI & Tableau dashboards** → insight-driven decisions  
+- Managed end-to-end projects → client delivery, escalations, and impact  
+
+📌 Skills in action: *Postman API · Salesforce Admin · Jira · Bitbucket · Tableau · Power BI · AWS · PostgreSQL · SQL · Python · Agile · Project Management*  
+</details>  
+
+---
+
+✨ P.S. Looking for someone who can **decode data, manage projects, and sprinkle creativity with AI**? That’s me.  
+
+📫 **Email me at:** nidhipriyasingh@outlook.com  
 
 <h3 align="left">
   Connect with me:
