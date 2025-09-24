@@ -18,9 +18,9 @@ Technical Skills:
 P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... 
 - 📫 Email me at: **nidhipriyasingh@outlook.com**
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="[https://linkedin.com/in/priyankajhatheanalyst](https://www.linkedin.com/in/nidhipriyasingh007/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
-</p>
+
+<a href="[[https://linkedin.com/in/priyankajhatheanalyst](https://www.linkedin.com/in/nidhipriyasingh007/)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
+
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
