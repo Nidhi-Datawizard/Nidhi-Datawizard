@@ -23,18 +23,13 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 - 🧑‍🍳 **AI Chef App** → fun experiment with AI & Gemini 🍳  
 - 📈 **Performance Dashboards** → actionable insights from complex datasets  
 - ☁️ **AWS AppStream Setup** → production-ready cloud deployment  
-- 🛠️ **ETL Automations** → SQL + Python scripts that save hours daily 
+- 🛠️ **ETL Automations** → SQL + Python scripts that save hours daily
+
+[🔗 Explore my Projects](https://github.com/Nidhi-Datawizard?tab=repositories)  
 
 P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... 
 - 📫 Email me at: **nidhipriyasingh@outlook.com**
 
-
-<h3 align="left">
-  Connect with me:
-  <a href="https://www.linkedin.com/in/nidhipriyasingh007/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nidhi Priya Singh LinkedIn" height="30" width="40" />
-  </a>
-</h3>
 
 
 <h3 align="left">
@@ -50,19 +45,6 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries](LINK)
 - 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
-
-<h3 align="left">
-  🌱 My **Data Analyst Portfolio Projects** are in: [Data Analyst Projects Repo.](Git Rep Link)
-</h3>
-  
-- 👨‍💻 My **SQL** Projects are at: [Tableau Public](SQL.com)
-- 👨‍💻 My **Power BI** Projects are at: [Tableau Public](powerbi.com)
-- 👨‍💻 My **Python** Projects are at: [Tableau Public](python.com)
-- 👨‍💻 My **Excel** Projects are at: [Tableau Public](excel.com)
-- 👨‍💻 My **Tableau** Projects are at: [Tableau Public](tableau.com)
-- 👨‍💻 My **AWS** Projects are at: [Tableau Public](aws.com)
-- 👨‍💻 My **Salesforce** Projects are at: [Tableau Public](salesforce.com)
-- 👨‍💻 My **AI** Projects are at: [Tableau Public](AL.com)
 
 
 <h3 align="left">
@@ -147,6 +129,13 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 • Ensuring client delivery and managing escalations.
    
 Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket · Webstorm · Salesforce · Jira · Tableau · Microsoft Power BI · Business Analytics · Data Analytics · Amazon Web Services (AWS) · PostgreSQL · SQL · Python (Programming Language) · Resource Planning · Agile Methodologies · Software Project Management · Project Management · Google Analytics · Microsoft Office · Microsoft Excel
+
+<h3 align="left">
+  Connect with me:
+  <a href="https://www.linkedin.com/in/nidhipriyasingh007/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nidhi Priya Singh LinkedIn" height="30" width="40" />
+  </a>
+</h3>
 
 [website]: 
 [youtube]: https://www.youtube.com/@DataWizard-Nidhee
