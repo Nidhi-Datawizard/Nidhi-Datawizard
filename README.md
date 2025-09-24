@@ -151,5 +151,6 @@ Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket ·
 </h3>
 
 📫 **Email me at:** nidhipriyasingh@outlook.com  
-**[website]**: www.nidhipriyasingh.com
-**[youtube]**: https://www.youtube.com/@DataWizard-Nidhee
+🌐 **Website:** [www.nidhipriyasingh.com](http://www.nidhipriyasingh.com)  
+📺 **YouTube:** [DataWizard-Nidhee](https://www.youtube.com/@DataWizard-Nidhee)  
+
