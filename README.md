@@ -6,14 +6,24 @@ As a Data enthusiast, I am passionate about exploring data and uncovering valuab
 
 Additionally, I am a dedicated ETL Developer with a diverse skill set spanning ETL design, SQL database management, AWS and Salesforce configuration, API troubleshooting, Tableau reporting, business development, and Power BI. I am driven by a passion for efficiency, automation, and delivering impactful solutions that drive business success.
 
-Technical Skills:
-• Proficiency in PostgreSQL and Python for data extraction, manipulation, and analysis
-• Advanced Excel skills, including functions and pivot tables
-• Ability to create interactive dashboards and visualizations using Power BI and Tableau
-• Strong analytical and problem-solving skills
-• Experience in data cleansing, data validation, and data quality assurance
-• Salesforce visualization and customizations of fields, workflows, and validation rules.
-• AWS configuration and Customization.
+## 🛠️ Technical Skills:
+- 🐍 **Python + PostgreSQL** → data extraction, manipulation, automation  
+- 📊 **Power BI & Tableau** → dashboards that executives *actually* use  
+- 📈 **Excel Ninja** → pivots, advanced formulas, analytics  
+- ☁️ **AWS Explorer** → AppStream, Connect, cloud performance optimization  
+- ⚡ **Salesforce Customization** → fields, workflows, dashboards, validation rules  
+- 🔌 **API Troubleshooting & ETL Pipelines** → smooth, scalable, automated
+
+## 🚀 Current Focus
+- 📍 Expanding my **Data Analyst Portfolio** with AI-driven insights  
+- 🤖 Merging **data + AI + creativity** into next-gen projects  
+- 🌐 Building open-source tools for **data visualization & analysis**
+
+## 📂 Featured Projects
+- 🧑‍🍳 **AI Chef App** → fun experiment with AI & Gemini 🍳  
+- 📈 **Performance Dashboards** → actionable insights from complex datasets  
+- ☁️ **AWS AppStream Setup** → production-ready cloud deployment  
+- 🛠️ **ETL Automations** → SQL + Python scripts that save hours daily 
 
 P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... 
 - 📫 Email me at: **nidhipriyasingh@outlook.com**
@@ -28,14 +38,31 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 
 
 <h3 align="left">
-  Data Analysis Work
+  ## 🌱 Portfolio & Learning
 </h3>
 
-- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](LINK)
-- 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
-- 🌱 My **Data Analyst Portfolio Projects** are in: [Data Analyst Projects Repo.](Git Rep Link)
-- 👨‍💻 My **Tableau** Projects are at: [Tableau Public](tableau.com)
+- 🔭 Python Libraries I ❤️: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `cufflinks`, `BeautifulSoup`  
+- 📝 [Portfolio Website](www.nidhipriyasingh.com)  
+- 📊 [Power BI Projects](powerbi.com)  
+- 📈 [Tableau Projects](tableau.com)  
+- 🐍 [Python Projects](python.com)  
+- 🧮 [SQL Projects](sql.com) 
 
+- 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries](LINK)
+- 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
+
+<h3 align="left">
+  🌱 My **Data Analyst Portfolio Projects** are in: [Data Analyst Projects Repo.](Git Rep Link)
+</h3>
+  
+- 👨‍💻 My **SQL** Projects are at: [Tableau Public](SQL.com)
+- 👨‍💻 My **Power BI** Projects are at: [Tableau Public](powerbi.com)
+- 👨‍💻 My **Python** Projects are at: [Tableau Public](python.com)
+- 👨‍💻 My **Excel** Projects are at: [Tableau Public](excel.com)
+- 👨‍💻 My **Tableau** Projects are at: [Tableau Public](tableau.com)
+- 👨‍💻 My **AWS** Projects are at: [Tableau Public](aws.com)
+- 👨‍💻 My **Salesforce** Projects are at: [Tableau Public](salesforce.com)
+- 👨‍💻 My **AI** Projects are at: [Tableau Public](AL.com)
 
 
 <h3 align="left">
