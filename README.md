@@ -38,8 +38,10 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 
 
 
-
+<h3 align="left">
   ✨ A little about me:
+</h3>
+
 - **🌵 Obsessed with cactus (If cactus had a fan club, I’d be president)**
 - **🛼 I roll through life on skates (but swimming? I tried once… sank like a rock 😂 😅)**
 - **🌙 Obsessed with the moon, moonlight & Starry Nights (Van Gogh = ❤️)**
