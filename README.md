@@ -27,10 +27,7 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 
 [🔗 Explore my Projects](https://github.com/Nidhi-Datawizard?tab=repositories)  
 
-P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... 
 - 📫 Email me at: **nidhipriyasingh@outlook.com**
-
-
 
 <h3 align="left">
   ## 🌱 Portfolio & Learning
