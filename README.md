@@ -16,9 +16,9 @@ Technical Skills:
 • AWS configuration and Customization.
 
 P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization... 
-
+- 📫 Email me at: **nidhipriyasingh@outlook.com**
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="[https://linkedin.com/in/priyankajhatheanalyst](https://www.linkedin.com/in/nidhipriyasingh007/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyankajhatheanalyst" height="30" width="40" /></a>
 </p>
 
@@ -28,7 +28,7 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 - 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
 - 🌱 My **Data Analyst Portfolio Projects** are in: [Data Analyst Projects Repo.](Git Rep Link)
 - 👨‍💻 My **Tableau** Projects are at: [Tableau Public](tableau.com)
-- 📫 Email me at: **nidhipriyasingh@outlook.com**
+
 
 
 
