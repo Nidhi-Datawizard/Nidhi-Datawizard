@@ -141,7 +141,7 @@ Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket ·
 
 ✨ P.S. Looking for someone who can **decode data, manage projects, and sprinkle creativity with AI**? That’s me.  
 
-📫 **Email me at:** nidhipriyasingh@outlook.com  
+
 
 <h3 align="left">
   Connect with me:
@@ -150,5 +150,6 @@ Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket ·
   </a>
 </h3>
 
-[website]: 
+📫 **Email me at:** nidhipriyasingh@outlook.com  
+[website]: www.nidhipriyasingh.com
 [youtube]: https://www.youtube.com/@DataWizard-Nidhee
