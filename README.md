@@ -99,10 +99,7 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 
 <!-- ![GitHub Streak](https://github.com/Nidhi-Datawizard?tab=overview&from=2023-05-01&to=2023-05-31) -->
 
-#
-
-<details>
- <summary><h3>👨‍💻 My Journey</h3></summary>
+# <summary><h3>👨‍💻 My Journey</h3></summary>
 - As an ETL Developer, I have completed various projects with the following tasks:
 - Translated business requirements into ETL design specifications.
 - Implemented Configuration for setup and deployment at different environments like Dev, Stage, Test, and Production.
@@ -125,11 +122,9 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 - Maintained Salesforce customizations, such as custom fields, workflows, and validation rules. 
 - Tableau reports and visualization dashboards.
 - Ensuring client delivery and managing escalations.
-<details>
    
 Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket · Webstorm · Salesforce · Jira · Tableau · Microsoft Power BI · Business Analytics · Data Analytics · Amazon Web Services (AWS) · PostgreSQL · SQL · Python (Programming Language) · Resource Planning · Agile Methodologies · Software Project Management · Project Management · Google Analytics · Microsoft Office · Microsoft Excel
 
-<details>
  <summary><h3>Summary</h3></summary>
    
 - Built & optimized **ETL pipelines** → faster data movement 🚀  
