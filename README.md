@@ -25,14 +25,12 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](LINK)
-
 - 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
-
 - 🌱 My **Data Analyst Portfolio Projects** are in: [Data Analyst Projects Repo.](Git Rep Link)
-
 - 👨‍💻 My **Tableau** Projects are at: [Tableau Public](tableau.com)
-
 - 📫 Email me at: **nidhipriyasingh@outlook.com**
+
+
 
   ✨ A little about me:
 - **🌵 Obsessed with cactus (If cactus had a fan club, I’d be president)**
