@@ -35,10 +35,10 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 - 📫 Email me at: **nidhipriyasingh@outlook.com**
 
 - ✨ A little about me:
-**🌵 Obsessed with cactus (If cactus had a fan club, I’d be president)**
-**🛼 I roll through life on skates (but swimming? I tried once… sank like a rock 😂 😅)**
-**🌙 Obsessed with the moon, moonlight & Starry Nights (Van Gogh = ❤️)**
-**🤖 AI isn’t just tech, it’s my art form 🚀**
+- **🌵 Obsessed with cactus (If cactus had a fan club, I’d be president)**
+- **🛼 I roll through life on skates (but swimming? I tried once… sank like a rock 😂 😅)**
+- **🌙 Obsessed with the moon, moonlight & Starry Nights (Van Gogh = ❤️)**
+- **🤖 AI isn’t just tech, it’s my art form 🚀**
 
 
    <p align="left">
