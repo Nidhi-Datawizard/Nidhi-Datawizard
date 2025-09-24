@@ -27,6 +27,10 @@ P.S. Seeking a dedicated and skilled Data Analyst to elevate your organization..
 </h3>
 
 
+<h3 align="left">
+  Data Analysis Work
+</h3>
+
 - 🔭 Learn **Python Libraries: pandas, numpy, matplotlib, seaborn, plotly, cufflinks, BeautifulSoup, DateTime.** from: [My Python Libraries Tutorials](LINK)
 - 📝 Take a look at my **Portfolio** Website: [www.nidhipriyasingh.com](LINK)
 - 🌱 My **Data Analyst Portfolio Projects** are in: [Data Analyst Projects Repo.](Git Rep Link)
