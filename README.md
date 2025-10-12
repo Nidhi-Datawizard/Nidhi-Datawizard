@@ -1,6 +1,4 @@
-<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24">/> <img src="gif/Hi.gif" width="30">
-  
-  <h1 align="center">👋 I am Nidhee!
+<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24">/> <img src="gif/Hi.gif" width="30"> I am Nidhee!
 
   <h3 align="center">Data Enthusiast | AI-ML Explorer | Project Manager 🚀</h3>
 
