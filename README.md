@@ -102,8 +102,6 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<div align="center">
-<h3 align="left">Activity:</h3>
 
 <!-- ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi-Datawizard&show_icons=true&theme=gruvbox) -->
 
