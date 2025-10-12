@@ -89,8 +89,6 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
       
    </p>
 
-
-<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🧰 Languages and Tools
