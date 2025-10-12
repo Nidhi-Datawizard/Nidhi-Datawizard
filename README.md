@@ -5,7 +5,7 @@
 
 <P align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=80&lines=Exploring+new+things+with+curiosity...;Learning+every+day...;Exploring+everyway+through+data+and+AI..." alt="Typing SVG" />
-
+<br>
 </P>  
 
 <!-- <p align="center">
