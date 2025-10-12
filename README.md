@@ -2,7 +2,7 @@
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<br>
   <h3 align="center">Data Enthusiast | AI-ML Explorer | Project Manager 🚀</h3>
 
 <P align="center">
