@@ -2,7 +2,7 @@
 
 **`Project Manager and Analyst (Analyst/Developer/Creator)`**
 
-As a Data enthusiast, I am passionate about exploring data and uncovering valuable insights that drive business decisions. Innovya has provided me with the necessary skills and knowledge to handle large, complex raw data sets to develop data-driven actionable insights to impact business decisions. I have gained practical experience in manipulating and analyzing data using Python and PostgreSQL, including data cleaning, transformation, analysis, and visualization tasks. 
+As a Data enthusiast, I am passionate about exploring data and uncovering valuable insights that drive business decisions. Innovya has provided me with the necessary skills and knowledge to handle large, complex raw data sets to develop data-driven, actionable insights to impact business decisions. I have gained practical experience in manipulating and analyzing data using Python and PostgreSQL, including data cleaning, transformation, analysis, and visualization tasks. 
 
 Additionally, I am a dedicated ETL Developer with a diverse skill set spanning ETL design, SQL database management, AWS and Salesforce configuration, API troubleshooting, Tableau reporting, business development, and Power BI. I am driven by a passion for efficiency, automation, and delivering impactful solutions that drive business success.
 
@@ -90,7 +90,6 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
    </p>
 
 
----
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -163,7 +162,8 @@ Skills: Postman API · IGlucose · Salesforce.com Administration · Bitbucket ·
 📌 Skills in action: *Postman API · Salesforce Admin · Jira · Bitbucket · Tableau · Power BI · AWS · PostgreSQL · SQL · Python · Agile · Project Management*  
 </details>  
 
----
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ✨ P.S. Looking for someone who can **decode data, manage projects, and sprinkle creativity with AI**? That’s me.  
 
