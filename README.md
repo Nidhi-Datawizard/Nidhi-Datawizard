@@ -110,6 +110,23 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" />
 </div>
 
+<p align="center">
+<i><b>Tools known:</b></i> 
+  <br><br>
+  <img align="center" src="tools/visualstudio.svg" width="35px" />&nbsp;
+  <img align="center" src="tools/photoshop.svg" width="33px" />&nbsp;
+  <!-- <img align="center" src="tools/lightroom.svg" width="33px" />&nbsp; -->
+  <img align="center" src="tools/vsdc.png" width="33px" />&nbsp;
+  <!-- <img align="center" src="tools/eclipse.svg" width="35px" />&nbsp; -->
+  <img align="center" src="tools/git.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/github.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/word.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/excel.svg" width="33px" />&nbsp;
+  <img align="center" src="tools/powerpoint.svg" width="33px" />&nbsp;
+
+</p>
+
+
 <!-- <img align="left" alt="Java Script" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -128,7 +145,9 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
   
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aarsav?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)          [![GitHub Streak](https://streak-stats.demolab.com?user=aarsav&theme=merko&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aarsav?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)          
+  [![GitHub Streak](https://streak-stats.demolab.com?user=aarsav&theme=merko&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet-Anand-01&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages">
 
 <div align="center">
 </div>
