@@ -132,10 +132,6 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br /> -->
 
-
-<br>
-<br>
-<br>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">📊 GitHub Stats:</h3>
