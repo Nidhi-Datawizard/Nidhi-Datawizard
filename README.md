@@ -142,20 +142,24 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 <br>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">📊 GitHub Stats:</h3>
+<br>
+<br>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="center">📊 GitHub Stats:</h3>
 
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nidhi-Priya-Singh?cardType=github&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nidhi-Priya-Singh?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
   <br><br>
   
   <!-- GitHub Streak -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Nidhi-Priya-Singh&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Nidhi-Priya-Singh&theme=merko&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
   <br><br>
 
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-Priya-Singh&show_icons=true&layout=compact&theme=algolia" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi-Priya-Singh&show_icons=true&layout=compact&theme=merko" alt="Most Used Languages"/>
 
 </div>
 
