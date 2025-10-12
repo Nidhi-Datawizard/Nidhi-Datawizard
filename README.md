@@ -4,16 +4,16 @@
 
   <h3 align="center">Data Enthusiast | AI-ML Explorer | Project Manager 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Exploring+new+things+with+curiosity...;Improving+myself+day+by+day,+brick+by+brick+🚀" alt="Typing SVG" />
-</p>
-
 <P align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=80&lines=Exploring+new+things+with+curiosity...;Learning+every+day...;Exploring+every+way+through+data+and+AI..." alt="Typing SVG" />
 
 </P>  
 
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Exploring+new+things+with+curiosity...;Improving+myself+day+by+day,+brick+by+brick+🚀" alt="Typing SVG" />
+</p> -->
 
+<br>
 **`Project Manager and Analyst (Analyst/Developer/Creator)`**
 
 As a Data enthusiast, I am passionate about exploring data and uncovering valuable insights that drive business decisions. Innovya has provided me with the necessary skills and knowledge to handle large, complex raw data sets to develop data-driven, actionable insights to impact business decisions. I have gained practical experience in manipulating and analyzing data using Python and PostgreSQL, including data cleaning, transformation, analysis, and visualization tasks. 
