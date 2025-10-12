@@ -25,7 +25,7 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 - ☁️ **AWS AppStream Setup** → production-ready cloud deployment  
 - 🛠️ **ETL Automations** → SQL + Python scripts that save hours daily
 
-[🔗 Explore my Projects](https://github.com/Nidhi-Datawizard?tab=repositories)  
+[🔗 Explore my Projects]([https://github.com/Nidhi-Datawizard?tab=repositories](https://github.com/Nidhi-Priya-Singh?tab=repositories))  
 
 📫 Email me at: **nidhipriyasingh@outlook.com**
 
@@ -37,8 +37,8 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 - 📝 [Portfolio Website](www.nidhipriyasingh.com)  
 - 📊 [Power BI Projects](https://github.com/Nidhi-Priya-Singh/POWER-BI-Project/blob/main/README.md)
 - 📈 [Tableau Projects](tableau.com)  
-- 🐍 [Python Projects](python.com)  
-- 🧮 [SQL Projects](sql.com) 
+- 🐍 [Python Projects](https://github.com/Nidhi-Priya-Singh/30-Days-Of-Python)  
+- 🧮 [SQL Projects]([sql.com](https://github.com/Nidhi-Priya-Singh/Data-Analysis-with-SQL)) 
 
 
 
