@@ -6,6 +6,17 @@ As a Data enthusiast, I am passionate about exploring data and uncovering valuab
 
 Additionally, I am a dedicated ETL Developer with a diverse skill set spanning ETL design, SQL database management, AWS and Salesforce configuration, API troubleshooting, Tableau reporting, business development, and Power BI. I am driven by a passion for efficiency, automation, and delivering impactful solutions that drive business success.
 
+<h3 align="left">
+  ## 🌱 Portfolio & Learning
+</h3>
+
+- 🔭 Python Libraries I ❤️: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `cufflinks`, `BeautifulSoup`  
+- 📝 [Portfolio Website](www.nidhipriyasingh.com)  
+- 📊 [Power BI Projects](https://github.com/Nidhi-Priya-Singh/POWER-BI-Project/blob/main/README.md)
+- 📈 [Tableau Projects](tableau.com)  
+- 🐍 [Python Projects](https://github.com/Nidhi-Priya-Singh/30-Days-Of-Python)  
+- 🧮 [SQL Projects](https://github.com/Nidhi-Priya-Singh/Data-Analysis-with-SQL)
+
 ## 🛠️ Technical Skills:
 - 🐍 **Python + PostgreSQL** → data extraction, manipulation, automation  
 - 📊 **Power BI & Tableau** → dashboards that executives *actually* use  
@@ -28,18 +39,6 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 [🔗 Explore my Projects]([https://github.com/Nidhi-Datawizard?tab=repositories](https://github.com/Nidhi-Priya-Singh?tab=repositories))  
 
 📫 Email me at: **nidhipriyasingh@outlook.com**
-
-<h3 align="left">
-  ## 🌱 Portfolio & Learning
-</h3>
-
-- 🔭 Python Libraries I ❤️: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `cufflinks`, `BeautifulSoup`  
-- 📝 [Portfolio Website](www.nidhipriyasingh.com)  
-- 📊 [Power BI Projects](https://github.com/Nidhi-Priya-Singh/POWER-BI-Project/blob/main/README.md)
-- 📈 [Tableau Projects](tableau.com)  
-- 🐍 [Python Projects](https://github.com/Nidhi-Priya-Singh/30-Days-Of-Python)  
-- 🧮 [SQL Projects](https://github.com/Nidhi-Priya-Singh/Data-Analysis-with-SQL)
-
 
 
 <h3 align="left">
