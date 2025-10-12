@@ -138,9 +138,6 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 <br>
 <br>
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br>
-<br>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">📊 GitHub Stats:</h3>
