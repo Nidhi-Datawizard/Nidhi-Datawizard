@@ -38,7 +38,7 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 - 📊 [Power BI Projects](https://github.com/Nidhi-Priya-Singh/POWER-BI-Project/blob/main/README.md)
 - 📈 [Tableau Projects](tableau.com)  
 - 🐍 [Python Projects](https://github.com/Nidhi-Priya-Singh/30-Days-Of-Python)  
-- 🧮 [SQL Projects]([sql.com](https://github.com/Nidhi-Priya-Singh/Data-Analysis-with-SQL)) 
+- 🧮 [SQL Projects](https://github.com/Nidhi-Priya-Singh/Data-Analysis-with-SQL)
 
 
 
