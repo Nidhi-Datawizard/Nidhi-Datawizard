@@ -6,6 +6,9 @@ As a Data enthusiast, I am passionate about exploring data and uncovering valuab
 
 Additionally, I am a dedicated ETL Developer with a diverse skill set spanning ETL design, SQL database management, AWS and Salesforce configuration, API troubleshooting, Tableau reporting, business development, and Power BI. I am driven by a passion for efficiency, automation, and delivering impactful solutions that drive business success.
 
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left">
   ## 🌱 Portfolio & Learning
 </h3>
@@ -17,6 +20,9 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 - 🐍 [Python Projects](https://github.com/Nidhi-Priya-Singh/30-Days-Of-Python)  
 - 🧮 [SQL Projects](https://github.com/Nidhi-Priya-Singh/Data-Analysis-with-SQL)
 
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## 🛠️ Technical Skills:
 - 🐍 **Python + PostgreSQL** → data extraction, manipulation, automation  
 - 📊 **Power BI & Tableau** → dashboards that executives *actually* use  
@@ -25,10 +31,16 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 - ⚡ **Salesforce Customization** → fields, workflows, dashboards, validation rules  
 - 🔌 **API Troubleshooting & ETL Pipelines** → smooth, scalable, automated
 
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## 🚀 Current Focus
 - 📍 Expanding my **Data Analyst Portfolio** with AI-driven insights  
 - 🤖 Merging **data + AI + creativity** into next-gen projects  
 - 🌐 Building open-source tools for **data visualization & analysis**
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📂 Featured Projects
 - 🧑‍🍳 **AI Chef App** → fun experiment with AI & Gemini 🍳  
@@ -40,6 +52,8 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 
 📫 Email me at: **nidhipriyasingh@outlook.com**
 
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">
   ✨ A little about me:
@@ -50,6 +64,8 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 - **🌙 Obsessed with the moon, moonlight & Starry Nights (Van Gogh = ❤️)**
 - **🤖 AI isn’t just tech, it’s my art form 🚀**
 
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
    <p align="left">
       <a href="https://www.youtube.com/@DataWizard-Nidhee?sub_confirmation=1">
@@ -75,6 +91,8 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 
 
 ---
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🧰 Languages and Tools
 
