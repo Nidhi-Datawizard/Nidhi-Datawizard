@@ -1,4 +1,12 @@
-# 🏄‍♂️ Hi there 👋 I am Nidhee!
+<h1 align="center">Hello, &ltworld<img src="gif/Earth.gif" width="24">/> <img src="gif/Hi.gif" width="30">
+  
+  <h1 align="center">👋 I am Nidhee!
+
+  <h3 align="center">Data Enthusiast | AI-ML Explorer | Project Manager 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Exploring+new+things+with+curiosity...;Improving+myself+day+by+day,+brick+by+brick+🚀" alt="Typing SVG" />
+</p>
 
 **`Project Manager and Analyst (Analyst/Developer/Creator)`**
 
