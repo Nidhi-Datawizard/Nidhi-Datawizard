@@ -130,6 +130,7 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
   
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aarsav?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)          [![GitHub Streak](https://streak-stats.demolab.com?user=aarsav&theme=merko&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
 
+<div align="center">
 </div>
 
 <br>
