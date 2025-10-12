@@ -8,8 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Exploring+new+things+with+curiosity...;Improving+myself+day+by+day,+brick+by+brick+🚀" alt="Typing SVG" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Explore+things+with+curiosity...;Learning+every+day...;Exploring+every+way+through+data+and+AI..." alt="Typing SVG" />
-
+<P align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Exploring+new+things+with+curiosity...;Learning+every+day...;Exploring+every+way+through+data+and+AI..." alt="Typing SVG" />
+</P>  
 
 
 **`Project Manager and Analyst (Analyst/Developer/Creator)`**
