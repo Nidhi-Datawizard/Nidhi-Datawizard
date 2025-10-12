@@ -8,13 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Exploring+new+things+with+curiosity...;Improving+myself+day+by+day,+brick+by+brick+🚀" alt="Typing SVG" />
 </p>
 
-**<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Exploring+the+world+through+data+and+AI...;Turning+complex+datasets+into+insights+💡;Project+management+meets+analytics+🚀" alt="Typing SVG" />
-**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Blending+AI+with+creativity...;Solving+problems+one+dataset+at+a+time...;Turning+ideas+into+action+🚀" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Learning+every+day,+growing+every+way...;Exploring+data,+AI+and+projects+with+passion...;Turning+curiosity+into+impact+🚀" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=39FF14&multiline=true&width=700&height=60&lines=Explore+things+with+curiosity...;Learning+every+day...;Exploring+every+way+through+data+and+AI..." alt="Typing SVG" />
 
 
 **`Project Manager and Analyst (Analyst/Developer/Creator)`**
