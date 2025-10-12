@@ -89,9 +89,23 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
 <br />
 
 
-### 📊 Stats
+<br>
+<br>
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aarsav?cardType=github&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)          [![GitHub Streak](https://streak-stats.demolab.com?user=aarsav&theme=merko&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)
 
-![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi-Datawizard&show_icons=true&theme=gruvbox)
+</div>
+
+<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+<h3 align="left">Activity:</h3>
+
+<!-- ![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nidhi-Datawizard&show_icons=true&theme=gruvbox) -->
 
 <!-- ![GitHub Streak](https://github.com/Nidhi-Datawizard?tab=overview&from=2023-05-01&to=2023-05-31) -->
 
