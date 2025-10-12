@@ -109,8 +109,6 @@ Additionally, I am a dedicated ETL Developer with a diverse skill set spanning E
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="icon" width="65" height="65" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="65" />
 </div>
-<br>
-<br>
 
 <!-- <img align="left" alt="Java Script" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
